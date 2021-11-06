@@ -1,4 +1,4 @@
 # Git-repository
-Hello Git
+Hello Git conflict line
 Testing first line
 need to pull for this line
